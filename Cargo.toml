@@ -1,0 +1,6 @@
+[package]
+name = "split_word"
+version = "1.0.0"
+authors = ["Jeremy Day <jadaytime@gmail.com>"]
+
+[dependencies]
